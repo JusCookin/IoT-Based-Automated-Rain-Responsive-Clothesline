@@ -31,7 +31,7 @@ Frontend Web Dashboard: Real-time data visualization from Google Sheets
 OLED Display: Local system status and sensor readings
 
 Hardware Architecture:
-![image](https://github.com/user-attachments/assets/f159b393-e180-4288-b5cc-c8c8527655c7)
+![WhatsApp Image 2025-06-16 at 19 53 12_281aeaa4](https://github.com/user-attachments/assets/f294fc01-6431-4b3d-982d-3a7a973de8ab)
 
 Interface:
 ![WhatsApp Image 2025-06-16 at 19 20 43_3f31fe05](https://github.com/user-attachments/assets/8fc2c515-d2b8-4447-866a-5ffc3801c510)
