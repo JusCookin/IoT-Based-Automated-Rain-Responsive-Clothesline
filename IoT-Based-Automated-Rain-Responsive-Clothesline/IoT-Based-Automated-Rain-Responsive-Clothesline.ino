@@ -14,11 +14,11 @@
 #include <DHT.h> // Include DHT library for DHT11 sensor
 
 // WiFi credentials
-const char* ssid = "Agash";
-const char* password = "password";
+const char* ssid = "";//ur ssid
+const char* password = "";//ur password
 
 // Google Script ID
-String GOOGLE_SCRIPT_ID = "AKfycbzpxUZJefQIwf325Xtwkm9eDcqdDV_t5EKC08pxbCYQ_qGAoFkjTgkxhEKVtPSmBtxZ"; // Store in EEPROM
+String GOOGLE_SCRIPT_ID = ""; // Store in EEPROM
 
 // EEPROM settings
 #define EEPROM_SIZE 512
